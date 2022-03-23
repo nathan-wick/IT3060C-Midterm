@@ -1,2 +1,2 @@
 # DatabaseManagementMidtermGroupProject
-Database Management Midterm Group Project
+Database Management course Midterm Group Project.
